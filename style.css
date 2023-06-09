@@ -1,0 +1,444 @@
+.leftPart p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000;
+}
+.language p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #000000;
+}
+.rightPart p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: 0.27563px;
+    color: #000000;
+}
+.title {
+    display: flex;
+    column-gap: 358px;
+}
+.leftPart {
+    display: flex;
+    column-gap:57px;
+    margin-left: 180px;
+    margin-top: 35px;
+}
+.rightPart {
+    display: flex;
+    column-gap:55px;
+    margin-right: 203px;
+    margin-top: 42px;
+}
+.language {
+    display: flex;
+    column-gap:6px;
+}
+.firstBlock {
+    background: #F9FAFB;
+}
+.firstScreen {
+    margin-top: 275px;
+}
+.description h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 76px;
+    letter-spacing: 1.26002px;
+    color: #000000;
+    margin: 0px;
+}
+#purple {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 76px;
+    letter-spacing: 1.26002px;
+    color: #B498F0;
+    margin: 0px;
+}
+.description p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 32px;
+    color: #000000;
+    width: 556px;
+    height: 63px;
+    margin-top: 33px;
+}
+.black {
+    width: 163px;
+    height: 61px;
+    background: #000000;
+    border-radius: 3.93757px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.315005px;
+    color: #FFFFFF;
+}
+.white {
+    width: 150px;
+    height: 64px;
+    border: 1px solid #000000;
+    border-radius: 3.93757px;
+}
+.white img {
+    padding: 19.5px 108px 19.5px 16.5px;
+    width: 25px;
+    height: 25px;
+}
+.buttons {
+    display: flex;
+    column-gap:16px;
+    margin-top: 84px;
+}
+#last {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.315005px;
+    color: #000000;
+    margin-top: 16px;
+    text-align: start;
+}
+.firstScreen {
+    display: flex;
+    column-gap:248px;
+    padding: 0 39px;
+}
+.description2 h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 61px;
+    letter-spacing: 1.02377px;
+    color: #000000;
+    margin: 0px;
+}
+.description2 p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #000000;
+    width: 434px;
+    height: 126px;
+    margin: 0px;
+    margin-top: 33px;
+    margin-bottom: 59px;
+}
+.blackButton {
+    width: 151px;
+    height: 61px;
+    background: #000000;
+    border-radius: 3.93757px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.315005px;
+    color: #FFFFFF;
+}
+.secondScreen {
+    padding: 0 39px;
+    display: flex;
+    column-gap:127px;
+    margin-top: 158px;
+}
+.photo2 img {
+    width: 561px;
+    height: 526px;
+}
+.description3 h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    letter-spacing: 1.02377px;
+    color: #000000;
+    margin: 0px;
+}
+.description3 p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #000000;
+    width: 440px;
+    height: 126px;
+    margin: 0px;
+    margin-top: 33px;
+    margin-bottom: 59px;
+}
+.photo3 img {
+    width: 561px;
+    height: 482px;
+}
+.thirdScreen {
+    display: flex;
+    column-gap:77px;
+    padding: 0 39px;
+    margin-top: 274px;
+}
+.description4 h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 61px;
+    letter-spacing: 1.02377px;
+    color: #000000;
+    margin: 0px;
+}
+.description4 p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #000000;
+    width: 472px;
+    height: 126px;
+    margin: 0px;
+    margin-top: 33px;
+    margin-bottom: 59px;
+}
+.photo4 img {
+    height: 347px;
+    width: 561px;
+}
+.fourthScreen {
+    display: flex;
+    column-gap:89px;
+    padding: 0 39px;
+    margin-top: 251px;
+}
+.fifthScreen p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 41px;
+    color: #000000;
+    padding: 0 245px;
+    margin: 0px;
+    margin-bottom: 40px;
+}
+.fifthScreen img {
+    width: 1121px;
+    height: 567px;
+    margin: 0 40px;
+}
+.fifthScreen {
+    margin-top: 275px;
+}
+.miniBlock p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.472508px;
+    color: #000000;
+}
+.miniBlock img {
+    width: 63px;
+    height: 63px;
+}
+.sixthScreen {
+    display: flex;
+    column-gap:54px;
+    margin: 200px 200px 0 200px;
+}
+.normalBlock p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    color: #000000;
+    margin: 0px;
+    margin-bottom:16px; ;
+}
+.normalBlock img {
+    width: 289px;
+    height: 294px;
+    margin-bottom: 85px;
+    margin-left: 30px;
+}
+h5 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.whiteButton {
+    border: 1px solid #000000;
+    border-radius: 3.93757px;
+    width: 151px;
+    height: 61px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.315005px;
+    color: #000000;
+    margin: 0 auto;
+}
+.seventhScreen {
+    display: flex;
+    column-gap:87px;
+    padding: 0 39px;
+    margin-top: 200px;
+}
+.eighthScreen h3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 41px;
+    text-align: center;
+    color: #000000;
+    padding: 157px 435px 0 435px;
+    width: 329px;
+    height: 85px;
+}
+.eighthScreen p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+    margin: 0;
+    /* margin-top: 26px;
+    padding: 0 308px 253px 308px; */
+    padding-bottom: 253px;
+    margin: 26px 308px 0 308px;
+    width: 583px;
+    height: 48px;
+}
+.eighthScreen {
+    background-image: url(./img/IMAGE-11.png);
+    background-repeat:no-repeat;
+    width: 100%;
+}
+.lastScreen {
+    background-color: #F9FAFB;
+}
+.top {
+    display: flex;
+    column-gap:150px;
+    padding: 65px 278px 49px 413px;
+}
+.firstColumn {
+    display: flex;
+    flex-direction: column;
+    row-gap: 7px;
+}
+.firstColumn p {
+    margin: 0px;
+}
+.secondColumn {
+    display: flex;
+    flex-direction: column;
+    row-gap: 7px;
+}
+.secondColumn p {
+    margin: 0px;
+}
+.firstRow {
+    display: flex;
+    column-gap:150px;
+    padding: 0 50px;
+    padding-top: 47px;
+    border-top: 2px solid #DADCDD;
+}
+.firstRow p {
+    margin: 0px;
+}
+.lang {
+    display: flex;
+    column-gap: 6px;
+}
+.lang p {
+    margin: 0px;
+    padding: 0px;
+    width: 20px;
+    height: 24px;
+}
+.column1 p {
+    margin: 0px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    color: #000000;
+}
+.column1 {
+    display: flex;
+    flex-direction: column;
+    row-gap: 7px;
+}
+.column1 h4 {
+    margin: 0px;
+    margin-bottom: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+    letter-spacing: 0.393757px;
+    color: #000000;
+}
+.secondRow {
+    display: flex;
+    column-gap:160px;
+    padding: 0 360px;
+    margin-top: 40px;
+    margin-bottom: 133px;
+}
+.row {
+    display: flex;
+    column-gap:20px;
+}
+.row p {
+    margin: 0px;
+    margin-bottom: 24px;
+}
+.row2 p {
+    margin: 0px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    color: #000000;
+    width: 441px;
+    height: 60px;
+}
+.bottomTitle {
+    padding: 0 39px;
+}
+.lang p:hover {
+    border-bottom: 2px solid black;
+}
+
+
+
+
+
+
